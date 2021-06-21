@@ -1,4 +1,4 @@
-# MnistGAN
+# Mnist-GAN
 
 Implementation of GAN using PyTorch and tested on MNIST Dataset.
 
